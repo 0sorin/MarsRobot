@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRobot", "MarsRobot\MarsRobot.csproj", "{2C0ACCDD-DE5D-42D2-BC23-FC9C9C89EF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRobotTests", "MarsRobotTests\MarsRobotTests.csproj", "{1FBE41FE-E5A0-4E7B-BB07-D3D2034EFFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0ACCDD-DE5D-42D2-BC23-FC9C9C89EF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0ACCDD-DE5D-42D2-BC23-FC9C9C89EF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0ACCDD-DE5D-42D2-BC23-FC9C9C89EF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0ACCDD-DE5D-42D2-BC23-FC9C9C89EF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBE41FE-E5A0-4E7B-BB07-D3D2034EFFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBE41FE-E5A0-4E7B-BB07-D3D2034EFFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBE41FE-E5A0-4E7B-BB07-D3D2034EFFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBE41FE-E5A0-4E7B-BB07-D3D2034EFFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
